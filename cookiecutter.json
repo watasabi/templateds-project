@@ -1,0 +1,13 @@
+{
+    "project_name": "Data Science Template",
+    "project_dir": "{{ cookiecutter.project_name.lower().replace(' ', '-').replace('_', '-') }}",
+    "project_desc": "TODO",
+    "__prompts__": {
+        "project_name": "Select your project name",
+        "project_dir": "Select your project directory name",
+        "project_desc": "A short project description"
+    },
+    "_extensions": [
+        "local_extensions.AdditionalPrompts"
+    ]
+}
