@@ -7,7 +7,7 @@
 To get started with this project you need to:
 ```bash
 pip install uv
-uvx cookiecutter https://github.com/watasabi/projectds-template
+uvx cookiecutter https://github.com/watasabi/templateds-project
 ```
 
 ## Project Organization
